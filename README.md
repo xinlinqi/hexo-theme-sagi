@@ -15,10 +15,10 @@ git clone git://github.com/xinlinqi/hexo-theme-sagi.git themes/sagi
 
 ## Update
 
-Execute the following command to update Light.
+Execute the following command to update Sagi.
 
 ```
-cd themes/light
+cd themes/sagi
 git pull
 ```
 
