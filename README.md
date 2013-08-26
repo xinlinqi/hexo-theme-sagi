@@ -22,4 +22,9 @@ cd themes/light
 git pull
 ```
 
+## Thanks
+
+This theme is modified based on [light](https://github.com/tommy351/hexo-theme-light), the hexo default theme.
+
+Much thanks to [lyric](http://lyric.im/), [hexo-theme-omega](https://github.com/Fatteru/hexo-theme-omega)
 
