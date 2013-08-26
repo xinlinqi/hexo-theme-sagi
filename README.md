@@ -10,7 +10,7 @@ Another [Hexo](http://zespia.tw/hexo/) Theme
 Execute the following command and modify `theme` in `_config.yml` to `sagi`.
 
 ```
-git clone git://github.com/tommy351/hexo-theme-sgi.git themes/sagi
+git clone git://github.com/xinlinqi/hexo-theme-sagi.git themes/sagi
 ```
 
 ## Update
