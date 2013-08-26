@@ -1,0 +1,12 @@
+<a href="<%- config.root %>" class="alignleft">
+	<img class="avatar" src="<%- theme.avatar %>" title="<%= config.title %><% if (config.subtitle){ %> | <%= config.subtitle %><% } %>">
+</a>
+<nav id="main-nav" class="alignleft clearfix">
+  <ul>
+    <% for (var i in theme.menu){ %>
+      <li><a href="<%- theme.menu[i] %>"><%= i %></a></li>
+    <% } %>
+  </ul>
+  <div class="clearfix"></div>
+</nav>
+<div class="clearfix"></div>

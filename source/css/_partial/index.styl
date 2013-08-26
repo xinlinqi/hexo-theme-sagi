@@ -1,0 +1,43 @@
+#pagination
+  a
+    position fixed
+    top 50%
+    display block
+    padding 10px 10px
+    background #30918D
+    font-family font-title
+    text-shadow 0 0 1px #fff
+    margin-bottom 50px
+    text-indent -99999px
+    span
+      display block
+      width 64px
+      height 64px
+      background transparent url('./img/pagination.png') 0 0
+  .prev
+    left 0
+    border-radius: 0 40px 40px 0
+    span
+      background-position 0 0px
+      &:hover
+        background-position 0 -64px
+    
+  .next
+    right 0
+    border-radius: 40px 0 0 40px
+    span
+      background-position 0 -128px
+      &:hover
+        background-position 0 -192px
+  .loading
+    span
+      -webkit-animation-name ani_go_loading
+      -webkit-animation-duration 1s
+      -webkit-animation-timing-function linear
+      -webkit-animation-iteration-count infinite
+    #next
+       background-position 0 -256px
+    #prev
+       background-position 0 -256px
+@-webkit-keyframes ani_go_loading
+  from{-webkit-transform:rotate(0deg);} to{-webkit-transform:rotate(360deg);}

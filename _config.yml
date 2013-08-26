@@ -1,0 +1,28 @@
+menu:
+  Home: /
+  Archives: /archives
+  Desires: /desire
+  Music: /music
+
+avatar: http://www.gravatar.com/avatar/d821e7a3f2016faad84df55097123f6c.png
+
+contact:
+  googleplus:
+
+excerpt_link: Read More
+
+duoshuo:
+  shortname: ixinlinqi
+
+addthis:
+  enable: false
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics:
+rss:
