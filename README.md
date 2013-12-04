@@ -1,6 +1,8 @@
 sagi
 =========
 
+### Tested under hexo version 1.0.4
+
 Another [Hexo](http://zespia.tw/hexo/) Theme
 
 ![Preview](http://ww4.sinaimg.cn/large/5a7a189bjw1e7zxwcrln4j21gr0qvati.jpg)
